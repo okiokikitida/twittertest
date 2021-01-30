@@ -5,8 +5,8 @@ from selenium.webdriver.support.select import Select
 import time
 
 # USERにアカウント名を入力、PASSにパスワード入力してください。
-USER = "Adriana96490814"
-PASS = "kLuRIiVR9VvYorf"
+USER = "username"
+PASS = "pass"
 
 #ブラウザ起動
 browser = webdriver.Chrome()
